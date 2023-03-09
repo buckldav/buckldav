@@ -4,7 +4,7 @@ David Buckley here. I am a...
 
 #### Web Developer
 - 🏢 I work at [SpringMicro](https://springmicro.com). I build their infrastructure.
-- 🔨 I like using React.js, Next.js, Django, DRF, PostgreSQL, and Docker.
+- 🔨 I like using Next.js, Astro, Svelte, FastAPI, Django, PostgreSQL, MongoDB, and Docker.
 
 #### High School CS Teacher
 - 🏫 I teach at [Merit Academy](https://meritacademy.tech) (HS, Springville, UT) and UVU PREP (Orem, UT).
