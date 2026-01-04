@@ -2,7 +2,7 @@
 
 David Buckley here. I am a...
 
-#### Web Developer
+#### Software Engineer learning to be a System Administrator 
 - 🏢 I work at [SpringMicroHost](https://springmicrohost.com). I build their infrastructure.
 - 🔨 I like using Astro, TypeScript, FastAPI, Django, Echo, PostgreSQL, and Docker.
 - 📚 I'm currently learning tools like Proxmox, Prometheus, and Grafana.
