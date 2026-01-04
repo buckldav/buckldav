@@ -3,13 +3,14 @@
 David Buckley here. I am a...
 
 #### Web Developer
-- 🏢 I work at [SpringMicro](https://springmicro.com). I build their infrastructure.
-- 🔨 I like using Next.js, Astro, Svelte, FastAPI, Django, PostgreSQL, MongoDB, and Docker.
+- 🏢 I work at [SpringMicroHost](https://springmicrohost.com). I build their infrastructure.
+- 🔨 I like using Astro, TypeScript, FastAPI, Django, Echo, PostgreSQL, and Docker.
+- 📚 I'm currently learning tools like Proxmox, Prometheus, and Grafana.
 
-#### High School CS Teacher
-- 🏫 I teach at [Merit Academy](https://meritacademy.tech) (HS, Springville, UT) and UVU PREP (Orem, UT).
-- 🎓 I teach Programming (Python + JS), Game Development (Unity + C#), Web Development (HTML + CSS + JS + React.js), AP CS (Java), and IT (Linux + Networking).
+#### High School STEM Teacher
+- 🏫 I teach at [Merit Academy](https://merit.dbuckley.dev) (HS, Springville, UT).
+- 🎓 I teach Earth & Space Science, AP Physics, Astronomy, Advanced Web Development (JS + PHP + Linux), and AP CS (Java). I also run our chapter of [TSA](https://tsaweb.org). 
 
 *I also like...*
-- 🎼 Playing and teaching jazz guitar and piano. Check out this [app](https://guitar.dbuckley.dev) I made that teaches jazz guitar chords.
+- 🎼 Playing jazz guitar and piano. Check out this [app](https://guitar.dbuckley.dev) I made that teaches jazz guitar chords.
 - 🏃 Running and Ultimate Frisbee. I coach both at my school.
